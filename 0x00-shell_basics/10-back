@@ -1,2 +1,2 @@
-#!/bin/bashps
-CD .
+#!/bin/bash
+cd -

@@ -1,2 +1,2 @@
-#!/bin/bashps
-CP -u *.html..
+#!/bin/bash
+cp -u *.htm ...
